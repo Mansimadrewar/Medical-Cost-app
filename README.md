@@ -1,2 +1,2 @@
 # Medical-Cost-app
-https://medical-cost-app-pratik-the-great.streamlit.app/
+https://medical-cost-app-Mansi-the-great.streamlit.app/
